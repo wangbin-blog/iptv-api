@@ -1,0 +1,31 @@
+[{
+	'id':1,
+	'title': '黑木耳资源',
+	'url': 'https://json.heimuer.xyz',
+	'select': false
+},{
+	'id':2,
+	'title': '极速资源',
+	'url': 'https://jszyapi.com',
+	'select': false
+},{
+	'id':3,
+	'title': '虎牙资源',
+	'url': 'https://www.huyaapi.com',
+	'select': false
+},{
+	'id':4,
+	'title': 'OK资源',
+	'url': 'https://api.okzy.org',
+	'select': false
+},{
+	'id':5,
+	'title': '速播资源',
+	'url': 'https://subocaiji.com',
+	'select': false
+},{
+	'id':6,
+	'title': '光速资源',
+	'url': 'https://api.guangsuapi.com',
+	'select': false
+}]
