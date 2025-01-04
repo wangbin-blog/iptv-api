@@ -1,0 +1,66 @@
+[{
+	"id":1,
+	"title": "黑木耳资源",
+	"url": "https://json.heimuer.xyz",
+	"select": false
+},{
+	"id":2,
+	"title": "极速资源",
+	"url": "https://jszyapi.com",
+	"select": false
+},{
+	"id":3,
+	"title": "虎牙资源",
+	"url": "https://www.huyaapi.com",
+	"select": false
+},{
+	"id":4,
+	"title": "速播资源",
+	"url": "https://subocaiji.com",
+	"select": false
+},{
+	"id":5,
+	"title": "光速资源",
+	"url": "https://api.guangsuapi.com",
+	"select": false
+},{
+	"id":6,
+	"title": "非凡资源",
+	"url": "http://api.ffzyapi.com",
+	"select": false
+},{
+	"id":7,
+	"title": "卧龙资源",
+	"url": "https://collect.wolongzy.cc",
+	"select": false
+},{
+	"id":8,
+	"title": "天空资源",
+	"url": "https://api.tiankongapi.com",
+	"select": false
+},{
+	"id":100,
+	"title": "极品资源-x",
+	"url": "https://jipinzyapi.com",
+	"select": false
+},{
+	"id":101,
+	"title": "百万资源-x",
+	"url": "https://api.bwzym3u8.com",
+	"select": false
+},{
+	"id":102,
+	"title": "丝袜资源-x",
+	"url": "https://www.siwazyw.tv",
+	"select": false
+},{
+	"id":103,
+	"title": "悠悠资源-x",
+	"url": "https://jk1.yycmszywapi.cc",
+	"select": false
+},{
+	"id":104,
+	"title": "精品资源-x",
+	"url": "https://www.jingpinx.com/api.php",
+	"select": false
+}]
