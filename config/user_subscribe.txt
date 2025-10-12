@@ -1,0 +1,6 @@
+# https://github.com/isw866/iptv/tree/main 
+https://ghm.078465.xyz/https://raw.githubusercontent.com/isw866/iptv/main/iptv4.m3u
+# https://github.com/TianmuTNT/iptv/tree/main
+https://ghm.078465.xyz/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
+# my
+https://gitproxy.click/https://github.com/wangbin-blog/IPTV/blob/main/iptv.m3u
