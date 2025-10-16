@@ -1,17 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-16 06:14:48,https://4k.11cn.dpdns.org/1.m3u8
-
-📺央视频道,#genre#
-CCTV-1,https://4k.11cn.dpdns.org/1.m3u8
-CCTV-2,https://4k.11cn.dpdns.org/2.m3u8
-CCTV-3,https://4k.11cn.dpdns.org/3.m3u8
-CCTV-4,https://4k.11cn.dpdns.org/4.m3u8
-CCTV-5,https://4k.11cn.dpdns.org/5.m3u8
-CCTV-5+,https://4k.11cn.dpdns.org/6.m3u8
-CCTV-6,https://4k.11cn.dpdns.org/7.m3u8
+2025-10-16 18:19:49,url
 
 📡卫视频道,#genre#
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 
 ☘️北京频道,#genre#
 
@@ -38,19 +28,9 @@ CCTV-6,https://4k.11cn.dpdns.org/7.m3u8
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://r.jdshipin.com/ZQ4kN
-无线新闻,http://r.jdshipin.com/CkuBd
 
 🎬电影频道,#genre#
-CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
-CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 
 🏀体育频道,#genre#
-CCTV-5,https://4k.11cn.dpdns.org/5.m3u8
-CCTV-5+,https://4k.11cn.dpdns.org/6.m3u8
-天元围棋,https://cc06.tv12.xyz/47.m3u8
 
 🪁动画频道,#genre#

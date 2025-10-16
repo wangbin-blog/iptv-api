@@ -1,17 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-16 06:14:48,https://4k.11cn.dpdns.org/1.m3u8
-
-📺央视频道,#genre#
-CCTV-1,https://4k.11cn.dpdns.org/1.m3u8
-CCTV-2,https://4k.11cn.dpdns.org/2.m3u8
-CCTV-3,https://4k.11cn.dpdns.org/3.m3u8
-CCTV-4,https://4k.11cn.dpdns.org/4.m3u8
-CCTV-5,https://4k.11cn.dpdns.org/5.m3u8
-CCTV-5+,https://4k.11cn.dpdns.org/6.m3u8
-CCTV-6,https://4k.11cn.dpdns.org/7.m3u8
+2025-10-16 18:19:49,http://1.94.31.214/php/hntv.php?id=hnws
 
 📡卫视频道,#genre#
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️北京频道,#genre#
@@ -57,33 +47,25 @@ CCTV-6,https://4k.11cn.dpdns.org/7.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
-无线新闻,http://r.jdshipin.com/CkuBd
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
-CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -92,9 +74,6 @@ CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
-CCTV-5,https://4k.11cn.dpdns.org/5.m3u8
-CCTV-5+,https://4k.11cn.dpdns.org/6.m3u8
-天元围棋,https://cc06.tv12.xyz/47.m3u8
 JJ斗地主,http://cfss.cc/cdn/yy/1355501191.m3u8
 
 🪁动画频道,#genre#
