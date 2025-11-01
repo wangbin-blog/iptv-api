@@ -1,7 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-01 18:18:53,http://113.106.171.234:8899/rtp/239.20.0.91:3036
+2025-11-02 06:18:52,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
+CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 
 💰央视付费频道,#genre#
 
@@ -15,16 +18,33 @@
 ☘️浙江频道,#genre#
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 
 ☘️上海频道,#genre#
+法治天地,http://60.223.72.25:8003/rtp/226.0.1.176:2100
+法治天地,http://60.223.72.135:8003/rtp/226.0.1.176:2100
+法治天地,http://183.185.71.109:8082/rtp/226.0.1.176:2100
+法治天地,http://171.116.216.113:10010/rtp/226.0.1.176:2100
+法治天地,http://118.79.12.65:6000/rtp/226.0.2.83:8576
+法治天地,http://123.174.106.11:8888/rtp/239.1.1.79:8079
+法治天地,http://118.79.12.62:6000/rtp/226.0.2.83:8576
 法治天地,http://116.179.149.157:6000/rtp/226.0.2.83:8576
+法治天地,http://118.79.12.62:6001/rtp/226.0.2.83:8576
+法治天地,http://116.179.149.157:6001/rtp/226.0.2.83:8576
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-都市剧场,http://116.179.149.157:6000/rtp/226.0.2.81:8560
+都市剧场,http://113.25.105.156:10000/rtp/239.1.1.81:8081
+都市剧场,http://60.223.72.25:8003/rtp/226.0.1.174:2098
+都市剧场,http://118.79.12.62:6001/rtp/226.0.1.174:2098
+都市剧场,http://60.223.72.135:8003/rtp/226.0.1.174:2098
+都市剧场,http://60.223.72.25:8001/rtp/226.0.1.174:2098
+都市剧场,http://183.185.71.109:8082/rtp/226.0.1.174:2098
+都市剧场,http://61.134.253.35:8001/rtp/226.0.1.174:2098
+都市剧场,http://61.134.253.35:8003/rtp/226.0.1.174:2098
+都市剧场,http://123.174.106.11:8888/rtp/239.1.1.81:8081
+都市剧场,http://171.116.216.113:10010/rtp/226.0.1.174:2098
 
 ☘️重庆频道,#genre#
 
@@ -44,7 +64,6 @@
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
-什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
 
 ☘️陕西频道,#genre#
@@ -76,6 +95,15 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
+山西经济与科技,http://123.174.106.11:8888/rtp/239.1.1.3:8003
+山西经济与科技,http://183.185.71.109:8082/rtp/226.0.1.81:2003
+山西经济与科技,http://118.79.12.65:6001/rtp/226.0.1.81:2003
+山西经济与科技,http://118.79.12.65:6000/rtp/226.0.2.236:9800
+山西经济与科技,http://171.118.222.23:8082/rtp/226.0.1.81:2003
+山西经济与科技,http://60.223.72.127:8001/rtp/226.0.1.81:2003
+山西经济与科技,http://118.79.12.62:6001/rtp/226.0.2.236:9800
+山西经济与科技,http://171.116.216.113:10010/rtp/226.0.1.81:2003
+山西经济与科技,http://61.134.253.35:8003/rtp/226.0.1.81:2003
 山西经济与科技,http://116.179.149.157:6000/rtp/226.0.2.13:8016
 
 ☘️安徽频道,#genre#
@@ -94,10 +122,9 @@
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
@@ -105,7 +132,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
@@ -116,7 +142,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
-天映经典,https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
@@ -124,6 +149,7 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+体育赛事,http://139.129.231.228/rtp/239.21.2.44:5002
 
 🪁动画频道,#genre#
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
