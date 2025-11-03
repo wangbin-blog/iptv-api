@@ -1,0 +1,68 @@
+# https://github.com/isw866/iptv/tree/main 
+https://ghm.078465.xyz/https://raw.githubusercontent.com/isw866/iptv/main/iptv4.m3u
+# https://github.com/TianmuTNT/iptv/tree/main
+https://ghm.078465.xyz/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
+# my
+https://gitproxy.click/https://github.com/wangbin-blog/IPTV/blob/main/iptv.m3u
+# https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1
+https://y.whereisdoge.work/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+ https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
+ https://szyyds.cn/tv/live/x.txt  # 小马影视
+ http://47.120.41.246:8899/zb.txt  # IPTV直播
+ https://live.kilvn.com/iptv.m3u  # 自动更新源(上游范明明源)
+ https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
+ https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
+ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
+ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u   # IPTV IPv4
+ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u   # IPTV IPv6
+ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u # myIPTV IPv4
+ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u # myIPTV IPv6
+
+# 纯 IPv4 源：
+ https://live.zbds.top/tv/iptv4.txt # 自动扫描直播源 IPTV4
+ https://live.zbds.top/tv/iptv4.m3u # M3U 格式直播源（已带台标和EPG）
+ https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u	# YueChan
+ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u	# BurningC4
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u # 百视通源
+ https://raw.githubusercontent.com/vamoschuck/TV/main/M3U # 茶客源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u # 重庆广电源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u # 阳泉广电源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u # 国内4K/8K源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u # 河北广电源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
+
+# 纯 IPv6 源：
+ https://live.zbds.top/tv/iptv6.txt # 自动扫描直播源 IPTV6
+ https://live.zbds.top/tv/iptv6.m3u # M3U 格式直播源（已带台标和EPG）
+ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u # 范明明直播源
+ https://live.fanmingming.cn/tv/m3u/ipv6.m3u # 范明明直播源国内镜像加速地址
+ https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u # YueChan 直播源
+ https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u # whpsky 源
+ https://gitee.com/xxy002/zhiboyuan/raw/master/dsy # （央视频道、卫视频道、港澳台、数字电视、动漫）
+
+# 部分 IPv4、部分 IPv6 源：
+ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u # TV直播源
+ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u # Kimentanm源，有部分IPv6
+ https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u # BigBigGrandG源，有部分IPv6
+ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u # YanG集合源，有部分IPv6
+ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u # 范明明直播源，有部分IPv6
+ 
+# 部分海外源：
+ https://epg.pw/test_channels.m3u # 中国大陆频道
+ https://epg.pw/test_channels_hong_kong.m3u # 中国香港频道
+ https://epg.pw/test_channels_macau.m3u # 中国澳门频道
+ https://epg.pw/test_channels_taiwan.m3u # 中国台湾频道
+ https://iptv-org.github.io/iptv/countries/tw.m3u # 中国台湾频道
+ https://epg.pw/test_channels_singapore.m3u # 新加坡频道
+ https://epg.pw/test_channels_malaysia.m3u # 马来西亚频道
+ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8 # 世界各地免费电视频道
+ https://iptv-org.github.io/iptv/index.m3u # 世界各地免费电视频道
+
+# 其他直播源：
+ http://emby.free.coms.su/diyp/live.php # 斗鱼影厅
+ https://live.freetv.top/huyayqk.m3u # 虎牙一起看
+ https://live.freetv.top/douyuyqk.m3u # 斗鱼一起看
+ https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top # YY轮播
+ https://www.goodiptv.club/bililive.m3u # 哔哩哔哩直播源
+ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u # 虎牙直播源
+ https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u # 斗鱼直播源
